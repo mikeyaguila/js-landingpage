@@ -258,7 +258,6 @@ section .title::after {
     background: url("../assets/images/street.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
-    min-height: 500px;
     background-size: cover;
     background-position: 100% 100%;
     background-attachment: fixed;
