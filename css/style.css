@@ -986,6 +986,10 @@ footer .footer-thumbnails .list .list-item-image {
         z-index: 999;
     }
 
+    .menu-btn i.active:before {
+        content: "\f00d";
+    }
+
     #navbar .menu {
         position: fixed;
         height: 100vh;

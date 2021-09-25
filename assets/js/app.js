@@ -59,7 +59,7 @@ document.querySelectorAll('.menu-btn').forEach(item => {
         navbarMenu.classList.toggle('active');
         menuBtnIcon.classList.toggle('active');
 
-    }, scrollToTop)
+    })
 });
 
 // Typing animation
